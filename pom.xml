@@ -55,7 +55,8 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/javax.validation/validation-api -->
+        <!-- https://mvnrepository.com/repos/central 
+         -->
         <dependency>
             <groupId>javax.validation</groupId>
             <artifactId>validation-api</artifactId>
@@ -65,7 +66,8 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.83</version>
-        </dependency>-->
+        </dependency>
+       -->  
 
     </dependencies>
     <build>
